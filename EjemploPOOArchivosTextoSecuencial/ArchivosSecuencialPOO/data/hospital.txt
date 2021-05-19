@@ -1,0 +1,15 @@
+Hospital Isidro Ayora;300;600000,00
+Hospital Del Seguro;250;4000000,00
+Clínica Hospital San José;200;2000000,00
+Hospital Isidro Ayora;300;600000,00
+Hospital Del Seguro;250;4000000,00
+Hospital Militar;200;2000000,00
+Hospital Isidro Ayora;300;600000,00
+Hospital Del Seguro;250;4000000,00
+Hospital Militar;200;2000000,00
+Hospital Isidro Ayora;300;600000,00
+Hospital Del Seguro;250;4000000,00
+Hospital Militar;200;2000000,00
+Hospital Isidro Ayora;300;600000,00
+Hospital Del Seguro;250;4000000,00
+Hospital Isidro Ayora;300;600000,00

@@ -22,8 +22,9 @@ public class ArchivoEscritura {
 
     public ArchivoEscritura(String n) {
         nombreArchivo = n;
-        rutaArchivo = String.format("data/%s",
-                obtenerNombreArchivo());
+        rutaArchivo = String.format("data/%s", obtenerNombreArchivo());
+        // "data/profesores.txt"
+        
         // sacar la información del archivo, previo a volver 
         // a trabajar con el mimso.
         establecerInformacionAnterior();
@@ -39,7 +40,7 @@ public class ArchivoEscritura {
         try {
             salidaArchivo = new Formatter(rutaArchivo);
             if (lista != null) {
-
+                
                 if (lista.size() > 0) {
                     for (int i = 0; i < lista.size(); i++) {
                         Profesor p1 = lista.get(i);
